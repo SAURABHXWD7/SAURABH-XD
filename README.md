@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![logo](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙰𝚁𝙸𝚈𝙰𝙽+𝚁𝙰𝙱𝙱𝙸;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+SAURABH+THAKUR;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 
 ![logo](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/DARK-NET-604/count.svg" />
+ <img src="https://profile-counter.glitch.me/SAURABHXWD7/count.svg" />
 </p>
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/DARK-NET-604"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DARK-NET-604&theme=monokai"></a>
+<a href="https://github.com/DARK-NET-604"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=SAURABHXWD7&theme=monokai"></a>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙽𝙰𝙼𝙴 :- 𝙰𝚁𝙸𝚈𝙰𝙽 𝚁𝙰𝙱𝙱𝙸
+- ➪ 𝙽𝙰𝙼𝙴 :- SAURABH THAKUR
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁
+- ☞︎︎︎ GOAL :- EVERYONE KNOW ME WHO AM I
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
+- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- HINDU
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -116,4 +116,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/DARK-NET-604/NAGAD"><img title="NAGAD" src="https://github-readme-stats.vercel.app/api/pin/?username=DARK-NET-604&repo=NAGAD&theme=gotham"></a>
 <a href="https://github.com/DARK-NET-604/PyObfuscate"><img title="PyObfuscate" src="https://github-readme-stats.vercel.app/api/pin/?username=DARK-NET-604&repo=PyObfuscate&theme=gotham"></a>
 <a href="https://github.com/DARK-NET-604/FB-Brute"><img title="FB-Brute" src="https://github-readme-stats.vercel.app/api/pin/?username=DARK-NET-604&repo=FB-Brute&theme=gotham"></a>
-
