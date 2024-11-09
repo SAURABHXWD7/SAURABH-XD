@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DARK-NET-604&label=Profile%20views&color=eb4d3d&style=flat-square" alt="DARK-NET-604" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAURABHXWD7-604&label=Profile%20views&color=eb4d3d&style=flat-square" alt="DARK-NET-604" /> </p>
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
